@@ -1,0 +1,1 @@
+# 1.1-GitHub-FastAPI-SentenceTransformers-embeddin
